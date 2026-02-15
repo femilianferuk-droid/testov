@@ -1,0 +1,23 @@
+# Backend
+fastapi==0.104.1
+uvicorn==0.24.0
+sqlalchemy==2.0.23
+alembic==1.12.1
+asyncpg==0.29.0
+redis==5.0.1
+celery==5.3.4
+pyrogram==2.0.106
+tgcrypto==1.2.5
+python-jose==3.3.0
+passlib==1.7.4
+bcrypt==4.0.1
+python-multipart==0.0.6
+cryptography==41.0.7
+httpx==0.25.1
+python-dotenv==1.0.0
+websockets==12.0
+
+# Frontend (Streamlit)
+streamlit==1.28.1
+requests==2.31.0
+websocket-client==1.6.4
